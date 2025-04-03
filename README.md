@@ -1,1 +1,1 @@
-# crop-yield-prediction-and-disease-detection
+# Crop-yield-prediction-and-disease-detection
